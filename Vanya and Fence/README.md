@@ -46,7 +46,7 @@ Output a single integer, the total width required for all friends to pass the fe
 ### Output:
 
 ```
-5
+4
 ```
 
 ### Explanation:
@@ -55,7 +55,7 @@ Output a single integer, the total width required for all friends to pass the fe
 - Friend 2 has height `5` and can also pass without bending (width = 1).
 - Friend 3 has height `14` and must bend down (width = 2).
 
-Total width = 1 + 1 + 2 = 5.
+Total width = 1 + 1 + 2 = 4.
 
 ---
 
@@ -99,7 +99,7 @@ Input:
 Output:
 
 ```
-5
+4
 ```
 
 ### Test Case 2:
