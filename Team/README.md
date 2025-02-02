@@ -51,16 +51,16 @@ The [script](./solve.py) reads the number of problems and then iterates through 
 
 ## Examble
 ### Input:
-    ```bash
+   ```bash
         3
         1 1 0
         1 0 0
         0 1 1
-    ```
+   ```
 ### Output:
-    ```bash
+   ```bash
         2
-    ```
+   ```
 ### Explanation:
 1. For the first problem, Petya and Vasya are confident, so it is counted.
 2. For the second problem, only Petya is confident, so it is not counted.
