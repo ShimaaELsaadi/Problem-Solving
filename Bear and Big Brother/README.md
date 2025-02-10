@@ -66,7 +66,7 @@ Here is the Python implementation:
    ```
 2. Run the script:
    ```sh
-   python limak_vs_bob.py
+   python solve.py
    ```
 3. Enter values for `a` and `b` when prompted.
 
