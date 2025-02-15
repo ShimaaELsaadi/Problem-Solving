@@ -71,8 +71,8 @@ Total width = 1 + 1 + 2 = 4.
 4. Print the total width.
 
 ### Implementation:
-Solution here >> [Solution](./solve.py)
-
+Here is the Python implementation:
+     [Solution](./solve.py)
 ## Complexity
 
 ### Time Complexity:
